@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a job as a QA.
+- 🔭 I’m a QA, work for a company "Rostelecom IT".
 - 🌱 I’m currently learning Git, GitHub.
 - 💬 Ask me about my skills.
 - 📫 How to reach me on Telegram: @Ugolnikof.
