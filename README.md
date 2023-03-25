@@ -1,4 +1,4 @@
-![Header](https://github.com/Ugolnikof/Ugolnikof/blob/main/assets/image.png)
+![Header](https://github.com/Ugolnikof/Ugolnikof/blob/main/assets/image_left.png)
 
 ### Hi there 👋
 
