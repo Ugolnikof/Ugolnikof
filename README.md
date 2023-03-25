@@ -5,9 +5,7 @@
 - ❓ Ask me about my skills.
 - 📫 How to reach me on Telegram: @Ugolnikof.
 - ⚡ Fun fact: I can do a backflip, but only once.
-- I'm the best of the best.
 
 ### My CV
 
 [Link to my CV](https://drive.google.com/file/d/1JLaxdW-T-wZlzolZ16FENsTm3_CqfD_W/view?usp=sharing)
-
