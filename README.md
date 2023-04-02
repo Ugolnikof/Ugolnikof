@@ -14,13 +14,14 @@
 
 ## Languages and Tools
 
-![Jira](https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=136be1)
+![Jira](https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=Jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=f76935)
-![Swagger](https://img.shields.io/badge/Swagger-FFFFFF?style=for-the-badge&logo=swagger&logoColor=7ede2b)
-![GitHub](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
-![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=00618a)
-![DevTools](https://img.shields.io/badge/DevTools-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Confluence](https://img.shields.io/badge/Confluence-FFFFFF?style=for-the-badge&logo=Confluence&logoColor=1c77f2)
+![Swagger](https://img.shields.io/badge/Swagger-FFFFFF?style=for-the-badge&logo=swagger&logoColor=6a9c40)
+![GitHub](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)
+![GitHub](https://img.shields.io/badge/Gitlab-FFFFFF?style=for-the-badge&logo=gitlab&logoColor=e34329)
+![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=a25aff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=PostgreSQL&logoColor=316193)
+![DevTools](https://img.shields.io/badge/DevTools-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=fbbc05)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Charles](https://img.shields.io/badge/Charles-FFFFFF?style=for-the-badge&logo=charles&logoColor=8cc4d7)
