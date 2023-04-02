@@ -14,13 +14,13 @@
 
 ## Languages and Tools
 
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Jira](https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=136be1)
+![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=f76935)
+![Swagger](https://img.shields.io/badge/Swagger-FFFFFF?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![GitHub](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=00618a)
+![DevTools](https://img.shields.io/badge/DevTools-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles&logoColor=8cc4d7)
