@@ -23,4 +23,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![DevTools](https://img.shields.io/badge/DevTools-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=https://freesoft.ru/storage/images/214/2135/213415/213415_normal.png&logoColor=8cc4d7)
+![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
