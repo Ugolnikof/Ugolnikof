@@ -14,8 +14,6 @@
 
 ## Languages and Tools
 
-<div style="text-align: center;">
-
 ![Jira](https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=Jira%20Software&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Confluence](https://img.shields.io/badge/Confluence-FFFFFF?style=for-the-badge&logo=Confluence&logoColor=1c77f2)
@@ -29,4 +27,9 @@
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=000000)
 
-</div>
+## Follow Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=cd2967)](https://www.instagram.com/rusau.qalife/)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=279fdb)](https://t.me/qachanell)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-FFFFFF?style=for-the-badge&logo=vk&logoColor=0077ff)](https://vk.com/id4654107)
+[![Linkedin](https://img.shields.io/badge/Linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=1176b5)](https://www.linkedin.com)
