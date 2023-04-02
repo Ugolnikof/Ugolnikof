@@ -4,7 +4,6 @@
 
 - 👨‍💻 I'm a QA engineer.
 - 💻 I work for a company "Rostelecom IT".
-- ❓ Ask me about my skills.
 - ⚡ Fun fact: I can do a backflip, but only once.
 
 ## My CV
