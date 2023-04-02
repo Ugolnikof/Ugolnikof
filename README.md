@@ -14,7 +14,9 @@
 
 ## Languages and Tools
 
-![Jira](https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=Jira&logoColor=136be1)
+<div style="text-align: center;">
+
+![Jira](https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=Jira%20Software&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Confluence](https://img.shields.io/badge/Confluence-FFFFFF?style=for-the-badge&logo=Confluence&logoColor=1c77f2)
 ![Swagger](https://img.shields.io/badge/Swagger-FFFFFF?style=for-the-badge&logo=swagger&logoColor=6a9c40)
@@ -26,3 +28,5 @@
 ![DevTools](https://img.shields.io/badge/DevTools-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=fbbc05)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=000000)
+
+</div>
