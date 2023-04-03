@@ -8,7 +8,7 @@
 
 ## My CV
 
-[Link to my CV](https://drive.google.com/file/d/1x50AYY7GuOMiDxQ1dVeSvzg2LAgiXrlH/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/16Nd45kRvDXHuruRczgIlHhhwoRhepdeo/view?usp=sharing)
 
 ## Languages and Tools
 
@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)
 ![GitLab](https://img.shields.io/badge/Gitlab-FFFFFF?style=for-the-badge&logo=gitlab&logoColor=e34329)
 ![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=a25aff)
-![Charles](https://img.shields.io/badge/Charles-FFFFFF?style=for-the-badge&logo=Betfair&logoColor=00FFFF)
+![Charles](https://img.shields.io/badge/Charles-FFFFFF?style=for-the-badge&logo=Betfair&logoColor=00FF00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=PostgreSQL&logoColor=316193)
 ![DevTools](https://img.shields.io/badge/DevTools-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=fbbc05)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
