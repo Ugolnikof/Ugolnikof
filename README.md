@@ -32,4 +32,6 @@
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-FFFFFF?style=for-the-badge&logo=vk&logoColor=0077ff)](https://vk.com/id4654107)
 [![Linkedin](https://img.shields.io/badge/Linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=1176b5)](https://www.linkedin.com)
 
+## Stats
+
 ![Ugolnikof's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ugolnikof&show_icons=true)
