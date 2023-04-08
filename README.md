@@ -8,7 +8,7 @@
 
 ## My CV
 
-[Link to my CV](https://drive.google.com/file/d/16Nd45kRvDXHuruRczgIlHhhwoRhepdeo/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1KvNmePwtan6Ps1v5jUcbou_C8bgqnKHk/view?usp=sharing)
 
 ## Languages and Tools
 
