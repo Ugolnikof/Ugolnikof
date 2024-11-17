@@ -2,8 +2,8 @@
 
 ## Hi there 👋
 
-- 👨‍💻 I'm a QA engineer.
-- 💻 I work for a company "Rostelecom IT".
+- 👨‍💻 I'm a QA Automation (Java).
+- 💻 I work for a company "Financial Technology Center".
 - ⚡ Fun fact: I can do a backflip, but only once.
 
 ## My CV
