@@ -10,7 +10,13 @@
 
 ## My CV
 
-[Link to my CV](https://drive.google.com/file/d/1hEOkSI1bYU67-KID5s4G7kRRfr0mYFKC/view?usp=sharing)
+<div>
+  <a href="https://drive.google.com/file/d/1RadpJyfspAujatRITSShRrJlhSi39vJI/view?usp=sharing">
+    <img src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png" title="CV" alt="CV" width="40" height="40"/>
+  </a>
+</div>
+
+[//]: # ([Link to my CV]&#40;https://drive.google.com/file/d/1hEOkSI1bYU67-KID5s4G7kRRfr0mYFKC/view?usp=sharing&#41;)
 
 ## Languages and Tools
 <div>
