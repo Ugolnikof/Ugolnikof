@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 - 👨‍💻 I'm a QA Automation (Java).
-- 💻 I work for a company "Financial Technology Center".
+- 💻 I work for a company "Korona.tech".
 - ⚡ Fun fact: I can do a backflip, but only once.
 
 ## My CV
