@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://avatars.mds.yandex.net/i?id=4a559585fd4603a919cdc40a99dceb54_l-5205087-images-thumbs&n=13" target="_blank">
-    <img src="https://avatars.mds.yandex.net/i?id=4a559585fd4603a919cdc40a99dceb54_l-5205087-images-thumbs&n=13" title="CV" alt="CV" width="50"/>
+    <img src="https://www.svgrepo.com/show/44199/businessman-paper-of-the-application-for-a-job.svg" title="CV" alt="CV" width="50"/>
   </a>
 </div>
 
