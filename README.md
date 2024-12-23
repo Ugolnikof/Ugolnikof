@@ -11,8 +11,8 @@
 ## My CV
 
 <div>
-  <a href="https://drive.google.com/file/d/1RadpJyfspAujatRITSShRrJlhSi39vJI/view?usp=sharing">
-    <img src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png" title="CV" alt="CV" width="40" height="40"/>
+  <a href="https://avatars.mds.yandex.net/i?id=4a559585fd4603a919cdc40a99dceb54_l-5205087-images-thumbs&n=13" target="_blank">
+    <img src="https://avatars.mds.yandex.net/i?id=4a559585fd4603a919cdc40a99dceb54_l-5205087-images-thumbs&n=13" title="CV" alt="CV" width="50"/>
   </a>
 </div>
 
