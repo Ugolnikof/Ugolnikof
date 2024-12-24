@@ -10,14 +10,14 @@
 
 ## My CV
 
-<div>
+<p>
   <a href="https://drive.google.com/file/d/1RadpJyfspAujatRITSShRrJlhSi39vJI/view?usp=sharing" target="_blank">
     <img src="https://www.svgrepo.com/show/207645/curriculum-portfolio.svg" title="CV" alt="CV" width="50"/>
   </a>
-</div>
+</p>
 
 ## Languages and Tools
-<div>
+<p>
   <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/184143/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/452210/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@
   <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354987/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-</div>
+</p>
 
 ## Follow Me
 
