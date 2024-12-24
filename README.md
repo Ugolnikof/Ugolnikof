@@ -16,8 +16,6 @@
   </a>
 </div>
 
-[//]: # ([Link to my CV]&#40;https://drive.google.com/file/d/1hEOkSI1bYU67-KID5s4G7kRRfr0mYFKC/view?usp=sharing&#41;)
-
 ## Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
@@ -33,6 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
 </div>
 
 [//]: # (![Figma]&#40;https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=a25aff&#41;)
@@ -47,7 +46,7 @@
   <a href="https://t.me/Ugolnikof" target="_blank" style="display: inline-block;">
     <img src="https://www.svgrepo.com/show/452115/telegram.svg" title="Telegram" alt="Telegram" width="42"/>
   </a>&nbsp;
-  <a href="https://vk.com/id4654107" target="_blank" style="display: inline-block;">
+  <a href="https://vk.com/id4654107" target="_blank">
     <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" title="Vkontakte" alt="Vkontakte" width="40"/>
   </a>
 </div>
