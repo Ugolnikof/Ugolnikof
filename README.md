@@ -44,16 +44,13 @@
 ## Follow Me
 
 <div>
-    <a href="https://t.me/MikhailUgolnikov" target="_blank">
+  <a href="https://t.me/Ugolnikof" target="_blank">
     <img src="https://www.svgrepo.com/show/452115/telegram.svg" title="Telegram" alt="Telegram" width="42"/>
-  </a>&nbsp;
-    <a href="https://vk.com/id4654107" target="_blank">
+  </a>
+  <a href="https://vk.com/id4654107" target="_blank">
     <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" title="Vkontakte" alt="Vkontakte" width="40"/>
   </a>
 </div>
-
-[//]: # ([![Telegram]&#40;https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=279fdb&#41;]&#40;https://t.me/MikhailUgolnikov&#41;)
-[//]: # ([![Vkontakte]&#40;https://img.shields.io/badge/Vkontakte-FFFFFF?style=for-the-badge&logo=vk&logoColor=0077ff&#41;]&#40;https://vk.com/id4654107&#41;)
 
 ## Stats
 
