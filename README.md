@@ -44,10 +44,10 @@
 ## Follow Me
 
 <div>
-  <a href="https://t.me/Ugolnikof" target="_blank">
+  <a href="https://t.me/Ugolnikof" target="_blank" style="display: inline-block;">
     <img src="https://www.svgrepo.com/show/452115/telegram.svg" title="Telegram" alt="Telegram" width="42"/>
-  </a>
-  <a href="https://vk.com/id4654107" target="_blank">
+  </a>&nbsp;
+  <a href="https://vk.com/id4654107" target="_blank" style="display: inline-block;">
     <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" title="Vkontakte" alt="Vkontakte" width="40"/>
   </a>
 </div>
