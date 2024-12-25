@@ -4,20 +4,20 @@
 
 ## Hi there 👋
 
-- 👨‍💻 I'm a QA Automation (Java).
-- 💻 I work for a company "Korona.tech".
-- ⚡ Fun fact: I can do a backflip, but only once.
+- 👨‍💻 I'm a QA Automation (Java)
+- 💻 I work for a company "Korona.tech"
+- ⚡ Fun fact: I can do a backflip, but only once
 
 ## My CV
 
-<div>
+<p>
   <a href="https://drive.google.com/file/d/1RadpJyfspAujatRITSShRrJlhSi39vJI/view?usp=sharing" target="_blank">
     <img src="https://www.svgrepo.com/show/207645/curriculum-portfolio.svg" title="CV" alt="CV" width="50"/>
   </a>
-</div>
+</p>
 
 ## Languages and Tools
-<div>
+<p>
   <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/184143/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/452210/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -35,18 +35,18 @@
   <img src="https://www.svgrepo.com/show/354987/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SqlDeveloper" alt="SqlDeveloper" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-</div>
+</p>
 
 ## Follow Me
 
-<div>
+<p>
   <a href="https://t.me/Ugolnikof" target="_blank" style="display: inline-block;">
     <img src="https://www.svgrepo.com/show/452115/telegram.svg" title="Telegram" alt="Telegram" width="42"/>
   </a>&nbsp;
   <a href="https://vk.com/id4654107" target="_blank">
     <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" title="Vkontakte" alt="Vkontakte" width="40"/>
   </a>
-</div>
+</p>
 
 ## Stats
 
