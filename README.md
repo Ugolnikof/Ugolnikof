@@ -31,6 +31,7 @@
   <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353961/kibana.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353829/grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354987/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
