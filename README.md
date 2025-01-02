@@ -18,24 +18,24 @@
 
 ## Languages and Tools
 <p>
-  <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/184143/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/452210/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/448226/gitlab.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354420/swagger.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/373525/confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/452192/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353961/kibana.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353829/grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354987/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="PL/SQL" alt="PL/SQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" title="Intellij" alt="Intellij" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/184143/java.svg" title="Java" alt="Java" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/452210/git.svg" title="Git" alt="Git" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" alt="GitHub" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/448226/gitlab.svg" title="GitLab" alt="GitLab" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354420/swagger.svg" title="Swagger" alt="Swagger" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="Jira" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/373525/confluence.svg" title="Confluence" alt="Confluence" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/452192/docker.svg" title="Docker" alt="Docker" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" title="Bash" alt="Bash" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353961/kibana.svg" title="Kibana" alt="Kibana" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353829/grafana.svg" title="Grafana" alt="Grafana" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354987/figma.svg" title="Figma" alt="Figma" width="37" height="37"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="PL/SQL" alt="PL/SQL" width="37" height="37"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="37" height="37"/>&nbsp;
 </p>
 
 ## Follow Me
