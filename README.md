@@ -11,7 +11,7 @@
 ## My CV
 
 <p>
-  <a href="https://drive.google.com/file/d/1RadpJyfspAujatRITSShRrJlhSi39vJI/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1zUJiO-LTBlOD5dT0BGeKGwycN8YOC4nr/view?usp=sharing" target="_blank">
     <img src="https://www.svgrepo.com/show/207645/curriculum-portfolio.svg" title="CV" alt="CV" width="50"/>
   </a>
 </p>
